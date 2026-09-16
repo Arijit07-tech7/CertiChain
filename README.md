@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:3b0710,75:7f1d1d,100:e11d48&height=250&section=header&text=CERTIVAULT&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Credential%20Trust%20Infrastructure&descAlignY=62&descSize=18&descColor=fda4af" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:3b0710,75:7f1d1d,100:e11d48&height=260&section=header&text=CERTICHAIN&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Digital%20Credential%20Trust%20Infrastructure&descAlignY=63&descSize=18&descColor=fda4af" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=2600&pause=900&color=F43F5E&center=true&vCenter=true&width=750&lines=Secure+%E2%80%A2+Verifiable+%E2%80%A2+Audit-Ready;Academic+Credentials%2C+Reimagined.;Issue.+Verify.+Trust." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=2600&pause=900&color=F43F5E&center=true&vCenter=true&width=780&lines=Secure+%E2%80%A2+Verifiable+%E2%80%A2+Audit-Ready;Academic+Credentials%2C+Reimagined.;Issue.+Verify.+Trust." />
 
 <br/><br/>
 
-<a href="https://agent-6aaaa93f466ab10f535b20d--certivault-arijit.netlify.app">
-<img src="https://img.shields.io/badge/%E2%9A%A1%20LIVE%20APPLICATION-E11D48?style=for-the-badge&labelColor=09090B"/>
+<a href="https://decerti-chain-client.vercel.app">
+<img src="https://img.shields.io/badge/%E2%9A%A1%20LIVE%20APPLICATION-E11D48?style=for-the-badge&logo=vercel&logoColor=white&labelColor=09090B"/>
 </a>
 
   
 
-<a href="https://github.com/Arijit07-tech7/CertiVault">
-<img src="https://img.shields.io/badge/GITHUB-CERTIVAULT-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Arijit07-tech7/CertiChain">
+<img src="https://img.shields.io/badge/GITHUB-CERTICHAIN-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -25,6 +25,8 @@
 <img src="https://img.shields.io/badge/SECURITY-SHA--256-E11D48?style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/badge/PLATFORM-WEB-7C3AED?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ARCHITECTURE-MODULAR-2563EB?style=flat-square"/>
 
 </div>
 
@@ -32,11 +34,11 @@
 
 <div align="center">
 
-# 🔐 CertiVault
+# 🔐 CertiChain
 
-### Digital Credential Trust Infrastructure
+### **Digital Credential Trust Infrastructure**
 
-A secure digital platform for **issuing, managing and verifying academic credentials** with cryptographic integrity, QR-based verification and an architecture ready for blockchain anchoring.
+A secure digital platform for **issuing, managing and verifying academic credentials** with cryptographic integrity, QR-based verification and an architecture designed for future blockchain integration.
 
 <br/>
 
@@ -46,39 +48,51 @@ A secure digital platform for **issuing, managing and verifying academic credent
 
 ---
 
-## 🚀 Live Application
+## ⚡ Quick Access
 
 <div align="center">
 
-<a href="https://agent-6aaaa93f466ab10f535b20d--certivault-arijit.netlify.app">
-<img src="https://img.shields.io/badge/OPEN%20CERTIVAULT-E11D48?style=for-the-badge&logo=netlify&logoColor=white"/>
+<a href="https://decerti-chain-client.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20OPEN%20LIVE%20APPLICATION-E11D48?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+  
+
+<a href="https://github.com/Arijit07-tech7/CertiChain">
+<img src="https://img.shields.io/badge/💻%20VIEW%20SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2400&pause=700&color=F43F5E&center=true&vCenter=true&width=650&lines=Register+%E2%86%92+Issue+%E2%86%92+Verify;Secure+credentials.+Clear+verification.;Built+for+the+future+of+digital+trust." />
+**Student → Credential → Fingerprint → QR → Verification**
 
 </div>
 
 ---
 
-## ✦ Why CertiVault?
+## ✦ Why CertiChain?
 
-Academic certificates are often distributed as static documents that can be difficult to authenticate quickly.
+Traditional academic certificates are often distributed as static documents, making fast and reliable authenticity checks difficult.
 
-CertiVault introduces a digital credential lifecycle where certificates can be:
+**CertiChain** introduces a digital credential lifecycle designed around **identity, integrity, verification and trust**.
 
-* **Issued** through a structured institutional workflow
-* **Fingerprint-protected** using SHA-256
-* **Connected** to a unique credential identity
-* **Verified** using Credential ID or QR
-* **Revoked** when necessary
-* **Audited** through credential lifecycle events
-* **Extended** toward blockchain and decentralized storage
+### The platform enables credentials to be:
 
-The goal is simple:
+* 👨‍🎓 **Issued** through a structured institutional workflow
+* 🔐 **Fingerprint-protected** using SHA-256
+* 🆔 **Assigned** a unique credential identity
+* 📱 **Verified** through QR or Credential ID
+* 🚫 **Revoked** when required
+* 🧾 **Tracked** through audit events
+* ⛓️ **Extended** toward blockchain and decentralized storage
 
-**Make credentials easy to verify while keeping trust infrastructure behind the scenes.**
+<br/>
+
+<div align="center">
+
+> ### **Make credentials easy to verify — while keeping the trust infrastructure behind the scenes.**
+
+</div>
 
 ---
 
@@ -86,20 +100,32 @@ The goal is simple:
 
 ```mermaid
 flowchart LR
-    A["👨‍🎓 Student<br/>Registration"] --> B["📜 Certificate<br/>Issuance"]
-    B --> C["🔐 Credential<br/>Generation"]
-    C --> D["#️⃣ SHA-256<br/>Fingerprint"]
-    D --> E["📱 QR /<br/>Credential ID"]
-    E --> F{"🔎 Verification"}
 
-    F -->|"Valid"| G["✓ VERIFIED"]
-    F -->|"Revoked"| H["⚠ REVOKED"]
-    F -->|"Unknown"| I["✕ NOT FOUND"]
+    A["👨‍🎓 Student<br/>Registration"]
+    B["📜 Certificate<br/>Issuance"]
+    C["🔐 Credential<br/>Generation"]
+    D["#️⃣ SHA-256<br/>Fingerprint"]
+    E["📱 QR /<br/>Credential ID"]
+    F{"🔎 Verification"}
+
+    G["✓ VERIFIED"]
+    H["⚠ REVOKED"]
+    I["✕ NOT FOUND"]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+
+    F -->|"Valid"| G
+    F -->|"Revoked"| H
+    F -->|"Unknown"| I
 
     style A fill:#09090B,stroke:#E11D48,color:#fff
     style B fill:#09090B,stroke:#E11D48,color:#fff
-    style C fill:#09090B,stroke:#E11D48,color:#fff
-    style D fill:#09090B,stroke:#E11D48,color:#fff
+    style C fill:#09090B,stroke:#7C3AED,color:#fff
+    style D fill:#09090B,stroke:#F43F5E,color:#fff
     style E fill:#09090B,stroke:#E11D48,color:#fff
     style F fill:#18181B,stroke:#F43F5E,color:#fff
     style G fill:#052E16,stroke:#22C55E,color:#fff
@@ -109,132 +135,159 @@ flowchart LR
 
 ---
 
-## ✨ Core Features
+# ✨ Core Capabilities
 
-### 👨‍🎓 Student Management
+## 👨‍🎓 Student Management
 
 Maintain structured student records containing:
 
 **Name • Student ID • Department • Course • Batch • Email • Graduation Year**
 
-### 📜 Certificate Issuance
+---
 
-Generate formal academic certificates from verified student information.
+## 📜 Certificate Issuance
 
-### 🔐 SHA-256 Fingerprinting
-
-A deterministic cryptographic fingerprint can be generated from the credential data to help detect changes to the credential payload.
-
-### 📱 QR Verification
-
-A QR code can connect a physical certificate to its digital verification experience.
-
-### 🔎 Instant Verification
-
-A verifier can check a credential using its:
-
-**Credential ID → QR → Verification Result**
-
-### 🚫 Revocation
-
-Issued credentials can be marked as revoked while preserving their credential identity and history.
-
-### 🧾 Audit Trail
-
-Credential operations can be tracked through structured audit events.
-
-### 🖨️ Print & PDF
-
-Certificates are designed for formal printing and digital sharing.
-
-### ⛓️ Blockchain Ready
-
-The architecture can be extended with blockchain anchoring without exposing blockchain complexity to normal users.
+Generate formal academic certificates using verified student information and credential metadata.
 
 ---
 
-## 🛡️ Trust Architecture
+## 🔐 SHA-256 Credential Fingerprinting
 
-```mermaid
-flowchart TB
-    A["🏛️ Institution"] --> B["CertiVault"]
-    
-    B --> C["👨‍🎓 Student Records"]
-    B --> D["📜 Certificate Engine"]
+CertiChain can generate a deterministic cryptographic fingerprint from credential data.
 
-    D --> E["🔐 Credential Payload"]
-    E --> F["#️⃣ SHA-256 Fingerprint"]
+This fingerprint helps identify whether the underlying credential payload has changed.
 
-    F --> G["📱 QR / Credential ID"]
-    G --> H["🌐 Verification Layer"]
+---
 
-    H --> I["👤 Public Verifier"]
+## 📱 QR-Based Verification
 
-    F -. Future .-> J["⛓️ Blockchain Anchor"]
-    D -. Future .-> K["📦 IPFS Storage"]
+Every credential can be connected to a digital verification experience through a QR code.
 
-    style A fill:#09090B,stroke:#E11D48,color:#fff
-    style B fill:#18181B,stroke:#F43F5E,color:#fff
-    style C fill:#09090B,stroke:#7C3AED,color:#fff
-    style D fill:#09090B,stroke:#7C3AED,color:#fff
-    style E fill:#09090B,stroke:#E11D48,color:#fff
-    style F fill:#09090B,stroke:#F43F5E,color:#fff
-    style G fill:#09090B,stroke:#E11D48,color:#fff
-    style H fill:#18181B,stroke:#F43F5E,color:#fff
-    style I fill:#09090B,stroke:#22C55E,color:#fff
-    style J fill:#09090B,stroke:#6366F1,color:#fff
-    style K fill:#09090B,stroke:#6366F1,color:#fff
+**Scan → Identify → Verify → Trust**
+
+---
+
+## 🔎 Instant Credential Verification
+
+A verifier can check a credential using:
+
+```text
+Credential ID
+      ↓
+QR Code
+      ↓
+Verification Engine
+      ↓
+Verification Result
 ```
 
+Possible states:
+
+**🟢 VERIFIED**
+**🟠 REVOKED**
+**🔴 NOT FOUND**
+
 ---
 
-## 🔏 Security Layer
+## 🚫 Revocation Registry
+
+Issued credentials can be marked as revoked while preserving their credential identity and lifecycle history.
+
+This provides a structured mechanism for handling invalidated credentials.
+
+---
+
+## 🧾 Audit Trail
+
+Important credential lifecycle operations can be represented through structured audit events.
+
+Examples include:
+
+* Student registration
+* Credential issuance
+* Verification
+* Revocation
+* Administrative operations
+
+---
+
+## 🖨️ Print & PDF Experience
+
+Certificates are designed as **formal institutional documents**, rather than dashboard screenshots.
+
+The technical fingerprint remains behind the verification layer instead of being prominently displayed on the printed certificate.
+
+---
+
+## ⛓️ Blockchain Ready
+
+The architecture is designed so that future implementations can integrate:
+
+* Blockchain anchoring
+* Decentralized storage
+* Verifiable credentials
+* Institutional authentication
+* Secure key management
+
+without exposing unnecessary infrastructure complexity to normal users.
+
+---
+
+# 🛡️ Trust & Security Architecture
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2200&pause=700&color=F43F5E&center=true&vCenter=true&width=700&lines=Cryptographic+Integrity;Controlled+Issuer+Access;Audit-Ready+Credentials;Revocation+Awareness" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=19&duration=2200&pause=700&color=F43F5E&center=true&vCenter=true&width=760&lines=Cryptographic+Integrity;Controlled+Issuer+Access;Audit-Ready+Credentials;Revocation+Awareness;Future-Ready+Trust+Infrastructure" />
 
 </div>
 
 <br/>
 
-**Cryptographic Integrity**
+### 🔐 Cryptographic Integrity
+
 SHA-256 fingerprinting helps identify changes in credential data.
 
-**Issuer Authorization**
+### 🛂 Issuer Authorization
+
 Administrative operations should be protected through authenticated and role-based access.
 
-**Revocation Registry**
-Credentials can retain their identity even after being revoked.
+### 🚫 Revocation Registry
 
-**Audit Logging**
-Important credential lifecycle operations can be recorded for accountability.
+Credentials retain their identity even when their validity status changes.
 
-**Rate Limiting**
+### 🧾 Audit Logging
+
+Credential lifecycle operations can be recorded for accountability and traceability.
+
+### 🛡️ Rate Limiting
+
 Verification endpoints can be protected against excessive automated requests.
 
-**Secure Key Management**
-Production private keys should remain server-side and be protected using secure key-management infrastructure.
+### 🔑 Secure Key Management
 
-> The current web deployment is a project implementation/demo. Production deployment would require a properly secured backend, database, authentication system and protected issuer keys.
+Production private keys should remain server-side and protected using secure key-management infrastructure.
+
+> **Deployment note:** The current web deployment is a project implementation/demo. Production deployment would require a secured backend, persistent database, robust authentication, protected issuer keys and production-grade monitoring.
 
 ---
 
-## 📜 Certificate Experience
+# 📜 Premium Certificate Experience
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=20&duration=2800&pause=800&color=F43F5E&center=true&vCenter=true&width=680&lines=Formal+Institutional+Design;Premium+Certificate+Experience;Minimal+Technical+Exposure" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=20&duration=2800&pause=800&color=F43F5E&center=true&vCenter=true&width=700&lines=Formal+Institutional+Design;Premium+Certificate+Experience;Minimal+Technical+Exposure" />
 
 <br/><br/>
 
 **JIS GROUP**
 
-### NARULA INSTITUTE OF TECHNOLOGY
+# NARULA INSTITUTE OF TECHNOLOGY
+
+### INFORMATION TECHNOLOGY
 
 <br/>
 
-### CERTIFICATE OF ACHIEVEMENT
+## CERTIFICATE OF ACHIEVEMENT
 
 <br/>
 
@@ -248,41 +301,29 @@ has successfully completed the prescribed academic requirements for the specifie
 
 **Course • Department • Academic Year • Issue Date**
 
-<br/>
+<br/><br/>
 
 **Authorized Signatories**
 
 </div>
 
-The technical fingerprint is intentionally kept behind the verification experience rather than being presented as a visible technical element on the printed certificate.
-
 ---
 
-## 🔎 Verification States
+# 🔎 Verification States
 
 <div align="center">
 
-### 🟢 VERIFIED
-
-The credential record exists and is currently valid.
-
-<br/>
-
-### 🟠 REVOKED
-
-The credential exists but has been revoked by the issuing authority.
-
-<br/>
-
-### 🔴 NOT FOUND
-
-No matching credential record was found.
+|      Status      | Meaning                                  |
+| :--------------: | :--------------------------------------- |
+|  🟢 **VERIFIED** | Credential exists and is currently valid |
+|  🟠 **REVOKED**  | Credential exists but has been revoked   |
+| 🔴 **NOT FOUND** | No matching credential record exists     |
 
 </div>
 
 ---
 
-## 🧩 Technology
+# 🧩 Technology Stack
 
 <div align="center">
 
@@ -290,64 +331,58 @@ No matching credential record was found.
 
 <br/><br/>
 
-**Frontend**
-
-React • JavaScript • Vite • CSS • React Router
-
-<br/>
-
-**Backend**
-
-Node.js • Express • MongoDB • Mongoose
-
-<br/>
-
-**Security**
-
-SHA-256 • Role Authorization • Rate Limiting • Audit Logging
-
-<br/>
-
-**Future Infrastructure**
-
-Solidity • Blockchain Anchoring • IPFS • Secure Key Management
+| Layer                        | Technologies                                            |
+| :--------------------------- | :------------------------------------------------------ |
+| 🌐 **Frontend**              | React • JavaScript • Vite • CSS • React Router          |
+| ⚙️ **Backend**               | Node.js • Express • MongoDB • Mongoose                  |
+| 🔐 **Security**              | SHA-256 • Authorization • Rate Limiting • Audit Logging |
+| ⛓️ **Future Infrastructure** | Solidity • Blockchain • IPFS • Secure Key Management    |
 
 </div>
 
 ---
 
-## 🏗️ System Architecture
+# 🏗️ System Architecture
 
 ```mermaid
 flowchart TB
 
     U["👤 Users"]
 
-    subgraph FRONTEND["🌐 CertiVault Web Application"]
+    subgraph FRONTEND["🌐 CERTICHAIN WEB APPLICATION"]
+
         UI["Dashboard"]
         ST["Student Management"]
         CI["Certificate Issuance"]
         VE["Verification"]
         SC["Security Center"]
+
     end
 
-    subgraph BACKEND["⚙️ Backend Services"]
+    subgraph BACKEND["⚙️ BACKEND SERVICES"]
+
         API["API Layer"]
         AUTH["Authentication & Authorization"]
         HASH["Hash Service"]
         AUDIT["Audit Service"]
+
     end
 
-    subgraph DATA["🗄️ Data Layer"]
+    subgraph DATA["🗄️ DATA LAYER"]
+
         DB["Student & Credential Database"]
+
     end
 
-    subgraph FUTURE["⛓️ Future Trust Infrastructure"]
+    subgraph FUTURE["⛓️ FUTURE TRUST INFRASTRUCTURE"]
+
         BC["Blockchain"]
         IPFS["IPFS"]
+
     end
 
     U --> UI
+
     UI --> ST
     UI --> CI
     UI --> VE
@@ -374,15 +409,116 @@ flowchart TB
 
 ---
 
-## 📁 Project Structure
+# 🧪 Credential Lifecycle
+
+```mermaid
+flowchart LR
+
+    A["ADD STUDENT"]
+    B["ISSUE CERTIFICATE"]
+    C["GENERATE CREDENTIAL"]
+    D["CREATE SHA-256"]
+    E["GENERATE QR"]
+    F["VERIFY CREDENTIAL"]
+
+    G["✓ VALID"]
+    H["⚠ REVOKED"]
+    I["✕ NOT FOUND"]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+
+    F --> G
+    F --> H
+    F --> I
+
+    style A fill:#09090B,stroke:#E11D48,color:#fff
+    style B fill:#09090B,stroke:#E11D48,color:#fff
+    style C fill:#09090B,stroke:#7C3AED,color:#fff
+    style D fill:#09090B,stroke:#F43F5E,color:#fff
+    style E fill:#09090B,stroke:#E11D48,color:#fff
+    style F fill:#18181B,stroke:#F43F5E,color:#fff
+    style G fill:#052E16,stroke:#22C55E,color:#fff
+    style H fill:#3F1D0B,stroke:#F59E0B,color:#fff
+    style I fill:#3F0A0A,stroke:#EF4444,color:#fff
+```
+
+---
+
+# 🏏 Cricket Desk
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=19&duration=2300&pause=800&color=F43F5E&center=true&vCenter=true&width=720&lines=Well+Played!;Issue+Cleanly.+Verify+Confidently.;Every+Credential+Deserves+Trust." />
+
+<br/><br/>
+
+🏏 **A lightweight cricket-themed dashboard assistant concept**
+
+<br/>
+
+Designed as a UI enhancement to make the administrative dashboard more engaging while remaining separate from the core credential verification system.
+
+</div>
+
+---
+
+# 🏛️ Institutional Context
+
+<div align="center">
+
+### JIS GROUP
+
+# NARULA INSTITUTE OF TECHNOLOGY
+
+### INFORMATION TECHNOLOGY
+
+<br/>
+
+CertiChain is designed around the academic credential issuance and verification workflow of educational institutions.
+
+<br/>
+
+**Universities • Colleges • Training Institutes • Certification Organizations**
+
+</div>
+
+---
+
+# 📊 Project Status
+
+<div align="center">
+
+| Capability                 |   Status  |
+| :------------------------- | :-------: |
+| 👨‍🎓 Student Management   |     ✅     |
+| 📜 Certificate Issuance    |     ✅     |
+| 🔐 SHA-256 Fingerprinting  |     ✅     |
+| 📱 QR Verification         |     ✅     |
+| 🚫 Credential Revocation   |     ✅     |
+| 🧾 Audit Trail             |     ✅     |
+| 🖨️ Print / PDF Experience |     ✅     |
+| ⛓️ Blockchain Architecture | 🔮 Future |
+| 📦 IPFS Integration        | 🔮 Future |
+| 🪪 Verifiable Credentials  | 🔮 Future |
+
+</div>
+
+---
+
+# 📁 Project Structure
 
 ```text
-CertiVault/
+CertiChain/
 │
 ├── client/
 │   ├── public/
 │   │   ├── logos/
 │   │   └── mascot/
+│   │
 │   └── src/
 │       ├── components/
 │       ├── pages/
@@ -415,82 +551,23 @@ CertiVault/
 
 ---
 
-## 🧪 Credential Lifecycle
+# 🔮 Future Vision
 
 ```mermaid
 flowchart LR
-    A["ADD STUDENT"] --> B["ISSUE CERTIFICATE"]
-    B --> C["GENERATE CREDENTIAL"]
-    C --> D["CREATE SHA-256"]
-    D --> E["GENERATE QR"]
-    E --> F["VERIFY CREDENTIAL"]
 
-    F --> G["✓ VALID"]
-    F --> H["⚠ REVOKED"]
-    F --> I["✕ NOT FOUND"]
+    A["Institutional<br/>Credentials"]
+    B["Digital<br/>Verification"]
+    C["Trusted<br/>Issuer Identity"]
+    D["Blockchain<br/>Anchoring"]
+    E["Decentralized<br/>Storage"]
+    F["Verifiable<br/>Credential Ecosystem"]
 
-    style A fill:#09090B,stroke:#E11D48,color:#fff
-    style B fill:#09090B,stroke:#E11D48,color:#fff
-    style C fill:#09090B,stroke:#7C3AED,color:#fff
-    style D fill:#09090B,stroke:#F43F5E,color:#fff
-    style E fill:#09090B,stroke:#E11D48,color:#fff
-    style F fill:#18181B,stroke:#F43F5E,color:#fff
-    style G fill:#052E16,stroke:#22C55E,color:#fff
-    style H fill:#3F1D0B,stroke:#F59E0B,color:#fff
-    style I fill:#3F0A0A,stroke:#EF4444,color:#fff
-```
-
----
-
-## 🏏 Cricket Desk
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=19&duration=2300&pause=800&color=F43F5E&center=true&vCenter=true&width=700&lines=Well+played!;Issue+cleanly.+Verify+confidently.;Every+credential+deserves+trust." />
-
-<br/><br/>
-
-A lightweight cricket-themed assistant concept designed to make the dashboard more engaging.
-
-<br/>
-
-The assistant is a UI enhancement and remains separate from the core credential verification system.
-
-</div>
-
----
-
-## 🏛️ Institutional Context
-
-<div align="center">
-
-### JIS GROUP
-
-## NARULA INSTITUTE OF TECHNOLOGY
-
-**Information Technology**
-
-<br/>
-
-CertiVault is designed around the academic credential issuance and verification workflow of educational institutions.
-
-<br/>
-
-**Universities • Colleges • Training Institutes • Certification Organizations**
-
-</div>
-
----
-
-## 🔮 Future Vision
-
-```mermaid
-flowchart LR
-    A["Institutional<br/>Credentials"] --> B["Digital<br/>Verification"]
-    B --> C["Trusted<br/>Issuer Identity"]
-    C --> D["Blockchain<br/>Anchoring"]
-    D --> E["Decentralized<br/>Storage"]
-    E --> F["Verifiable<br/>Credential Ecosystem"]
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
 
     style A fill:#09090B,stroke:#E11D48,color:#fff
     style B fill:#09090B,stroke:#F43F5E,color:#fff
@@ -500,17 +577,17 @@ flowchart LR
     style F fill:#052E16,stroke:#22C55E,color:#fff
 ```
 
-Potential future extensions include:
+### 🚀 Potential Extensions
 
 **Blockchain Anchoring • IPFS Storage • Institutional Authentication • Verifiable Credentials • Secure Key Management • Multi-Institution Networks**
 
 ---
 
-## 👨‍💻 Developer
+# 👨‍💻 Developer
 
 <div align="center">
 
-### Arijit Gupta
+### **Arijit Gupta**
 
 **B.Tech — Information Technology**
 
@@ -521,7 +598,9 @@ Kolkata, India 🇮🇳
 <br/>
 
 <a href="https://github.com/Arijit07-tech7">
+
 <img src="https://img.shields.io/badge/GITHUB-ARIJIT07--TECH7-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 <br/><br/>
@@ -534,24 +613,24 @@ Kolkata, India 🇮🇳
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11D48,45:7F1D1D,75:3B0710,100:050505&height=180&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E11D48,45:7F1D1D,75:3B0710,100:050505&height=190&section=footer&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2800&pause=1000&color=F43F5E&center=true&vCenter=true&width=720&lines=Secure+credentials.;Clear+verification.;Digital+trust." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2800&pause=1000&color=F43F5E&center=true&vCenter=true&width=740&lines=Secure+credentials.;Clear+verification.;Digital+trust." />
 
 <br/><br/>
 
-### **CertiVault**
+# **CertiChain**
 
-**Secure credentials. Clear verification. Digital trust.**
+### **Secure credentials. Clear verification. Digital trust.**
 
 <br/>
 
-React • Node.js • MongoDB • SHA-256
+**React • Node.js • MongoDB • SHA-256**
 
 <br/><br/>
 
-© 2026 CertiVault
+© 2026 CertiChain
 
 </div>
