@@ -1,0 +1,1 @@
+import mongoose from 'mongoose';const schema=new mongoose.Schema({actor:String,action:String,resourceId:String,metadata:Object,createdAt:{type:Date,default:Date.now}},{timestamps:false});export default mongoose.model('AuditLog',schema);

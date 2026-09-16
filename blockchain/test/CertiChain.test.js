@@ -1,0 +1,2 @@
+import { expect } from 'chai';import { ethers } from 'hardhat';
+describe('CertiChain',function(){it('issues and revokes a credential',async function(){const [owner]=await ethers.getSigners();const F=await ethers.getContractFactory('CertiChain');const c=await F.deploy();const id=ethers.id('NIT-2026-001');const fp=ethers.id('document');await c.issue(id,fp);let r=await c.verify(id,fp);expect(r[0]).to.equal(true);await c.revoke(id);r=await c.verify(id,fp);expect(r[1]).to.equal(true);expect(owner.address).to.equal(await c.owner())})});

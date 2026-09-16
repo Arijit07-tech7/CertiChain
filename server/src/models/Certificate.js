@@ -1,0 +1,2 @@
+import mongoose from 'mongoose';
+const schema=new mongoose.Schema({certificateId:{type:String,unique:true,index:true},studentId:{type:String,index:true},studentName:String,course:String,department:String,year:String,issueDate:String,fingerprint:{type:String,index:true},status:{type:String,enum:['VALID','REVOKED'],default:'VALID'},issuerAddress:String,txHash:String,documentCid:String},{timestamps:true});export default mongoose.model('Certificate',schema);

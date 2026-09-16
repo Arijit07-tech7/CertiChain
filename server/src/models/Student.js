@@ -1,0 +1,1 @@
+import mongoose from 'mongoose';const schema=new mongoose.Schema({studentId:{type:String,unique:true,index:true},name:String,department:String,course:String,batch:String,email:String,graduationYear:String},{timestamps:true});export default mongoose.model('Student',schema);
